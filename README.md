@@ -10,7 +10,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## whoami
+## who am i
 
 Generalist who genuinely likes the whole stack — from soldering an Arduino sensor at 1am to shipping a healthcare dashboard the next morning.
 Favorite problems sit between disciplines. The work that feels proudest has a personality.
